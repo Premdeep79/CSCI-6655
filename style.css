@@ -42,9 +42,9 @@ h1, h2, h3 {
     display: inline-block;
     margin-top: 20px;
     text-align: left;
-    max-width: 600px; /* Centering the text */
-    margin-left: auto; /* Centering */
-    margin-right: auto; /* Centering */
+    max-width: 600px; 
+    margin-left: auto; 
+    margin-right: auto; 
 }
 .profile-photo {
     border-radius: 50px;
@@ -55,13 +55,13 @@ h1, h2, h3 {
 }
 #education-projects {
     margin-top: 40px;
-    text-align: center; /* Centering the content */
+    text-align: center; 
 }
 .education, .projects {
-    width: 400px; /* Changed from percentage to pixel */
+    width: 400px; 
     display: inline-block;
     vertical-align: top;
-    margin: 0 20px; /* Added margin for spacing */
+    margin: 0 20px; 
 }
 .edu, .proj {
     margin-bottom: 20px;
@@ -95,9 +95,9 @@ h1, h2, h3 {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
     transition: box-shadow 0.3s;
     text-align: center; 
-    width: 300px; /* Changed from percentage to pixel */
+    width: 300px; 
     display: inline-block;
-    margin: 10px; /* Changed from percentage to pixel */
+    margin: 10px; 
 }
 .blog:hover {
     box-shadow: 0 0 20px rgba(255, 165, 0, 0.7); 
